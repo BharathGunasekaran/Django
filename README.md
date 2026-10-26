@@ -43,6 +43,12 @@ npm install
 pip install -r requirements.txt
 
 
+Set environment variables:
+
+export DB_PASSWORD=your_mysql_password
+export DJANGO_SECRET_KEY=your_django_secret_key
+
+
 Run locally:
 
 npm run dev
